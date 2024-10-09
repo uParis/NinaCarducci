@@ -1,18 +1,3 @@
-@font-face {
-	font-family: 'Inter';
-	src: url(./fonts/Inter-VariableFont_opsz\,wght.ttf);
-	font-weight: normal;
-    font-style: normal;
-	font-display: auto;
-}
-@font-face {
-	font-family: 'Spectral';
-	src: url(./fonts/Spectral-Italic.ttf), url(./fonts/Spectral-BoldItalic.ttf);
-	font-weight: normal;
-    font-style: italic;
-	font-display: auto;
-}
-
 body {
 	max-width: 1920px;
 	margin: auto;
